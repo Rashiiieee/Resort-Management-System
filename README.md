@@ -1,4 +1,4 @@
-# Resort-Management-System : We built the website using html,css,javascript,php.
+# Resort-Management-System : This website is built using html,css,javascript,php.
 
 
 
